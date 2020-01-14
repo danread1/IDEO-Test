@@ -1,11 +1,10 @@
-<!DOCTYPE html>
 <html>
 <head>
 
 <style type="text/css">
   .column {
     float: left;
-    width: 50%;
+    width: 70%;
   }
 
   /* Clear floats after the columns */
@@ -22,7 +21,7 @@
 
   <div class="row">
     <div class="column">This is the main body</div>
-    <div class="column">And this could be the nav</div>
+    <div class="column"># And this could be the nav</div>
   </div>
 
 </body>
