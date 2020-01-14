@@ -2,9 +2,14 @@
 <head>
 
 <style type="text/css">
-  .column {
+  .column-left {
     float: left;
     width: 70%;
+  }
+
+  .column-right {
+    float: right;
+    width: 30%;
   }
 
   /* Clear floats after the columns */
