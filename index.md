@@ -25,8 +25,8 @@
 <body>
 
   <div class="row">
-    <div class="column">This is the main body</div>
-    <div class="column"># And this could be the nav</div>
+    <div class="column-left">This is the main body</div>
+    <div class="column-right"># And this could be the nav</div>
   </div>
 
 </body>
